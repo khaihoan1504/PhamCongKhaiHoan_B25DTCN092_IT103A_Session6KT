@@ -15,6 +15,7 @@
 .title1{
     text-decoration: none;
     color: #78350f;
+    font-weight: bold;
 }
 .title1:hover{
     background-color: #c2410c;
